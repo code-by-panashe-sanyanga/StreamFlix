@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Midnight Run",
+    "genre": "Action",
+    "year": 2022,
+    "rating": "PG-13",
+    "description": "A getaway driver races across the city after one last job goes sideways.",
+    "poster": "https://placehold.co/400x600/1a1a2e/e50914?text=Midnight+Run"
+  },
+  {
+    "id": 2,
+    "title": "Quiet Room",
+    "genre": "Drama",
+    "year": 2021,
+    "rating": "TV-14",
+    "description": "A pianist returns home and uncovers the family secret that shaped her career.",
+    "poster": "https://placehold.co/400x600/1a1a2e/ffffff?text=Quiet+Room"
+  },
+  {
+    "id": 3,
+    "title": "Neon Alley",
+    "genre": "Sci-Fi",
+    "year": 2023,
+    "rating": "TV-MA",
+    "description": "A courier in a rain-soaked megacity discovers a message from the future.",
+    "poster": "https://placehold.co/400x600/16213e/00ff99?text=Neon+Alley"
+  },
+  {
+    "id": 4,
+    "title": "Harbor Light",
+    "genre": "Romance",
+    "year": 2020,
+    "rating": "PG",
+    "description": "Two former rivals reconnect while restoring a coastal lighthouse.",
+    "poster": "https://placehold.co/400x600/533483/ffffff?text=Harbor+Light"
+  },
+  {
+    "id": 5,
+    "title": "Signal Lost",
+    "genre": "Thriller",
+    "year": 2024,
+    "rating": "TV-14",
+    "description": "A radio host follows a mysterious broadcast that predicts disappearances.",
+    "poster": "https://placehold.co/400x600/0f172a/facc15?text=Signal+Lost"
+  },
+  {
+    "id": 6,
+    "title": "Kitchen Wars",
+    "genre": "Comedy",
+    "year": 2022,
+    "rating": "PG",
+    "description": "A stubborn chef and a food truck owner compete for the same festival prize.",
+    "poster": "https://placehold.co/400x600/7c2d12/fef3c7?text=Kitchen+Wars"
+  },
+  {
+    "id": 7,
+    "title": "Deep Orbit",
+    "genre": "Sci-Fi",
+    "year": 2024,
+    "rating": "PG-13",
+    "description": "An isolated research crew must decide whether a distress signal is a trap.",
+    "poster": "https://placehold.co/400x600/020617/38bdf8?text=Deep+Orbit"
+  },
+  {
+    "id": 8,
+    "title": "Last Whistle",
+    "genre": "Drama",
+    "year": 2019,
+    "rating": "TV-PG",
+    "description": "A retired referee returns to mentor a team with one shot at redemption.",
+    "poster": "https://placehold.co/400x600/14532d/bbefc4?text=Last+Whistle"
+  }
+]
