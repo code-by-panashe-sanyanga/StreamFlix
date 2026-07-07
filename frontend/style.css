@@ -47,27 +47,7 @@ main {
   padding: 1.25rem 2rem 3rem;
 }
 
-/* Big intro area at the top of the page. */
-.hero {
-  max-width: 760px;
-  padding: 3rem 0 2rem;
-}
-
-.hero h2 {
-  margin: 0;
-  font-size: 3rem;
-  line-height: 1.1;
-}
-
-.hero p {
-  color: var(--muted);
-  font-size: 1.05rem;
-  line-height: 1.6;
-  max-width: 560px;
-}
-
 /* Small grey uppercase labels. */
-.eyebrow,
 .meta,
 .section-title span,
 .signed-in {
