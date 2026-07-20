@@ -3,7 +3,7 @@
 **Built:** January 2026  
 **Author:** [Panashe Sanyanga](https://github.com/code-by-panashe-sanyanga)
 
-A movie browsing web app I built while learning how a frontend talks to a backend API. You can browse films, search and filter by genre, register an account, log in, and save titles to a personal watchlist. It runs locally on your machine — this is a student learning project, not production software.
+A movie browsing web app I built while learning how a frontend talks to a backend API. You can browse films, search and filter by genre, register an account, log in, and save titles to a personal watchlist. It runs locally on your machine  this is a student learning project, not production software.
 
 ---
 
